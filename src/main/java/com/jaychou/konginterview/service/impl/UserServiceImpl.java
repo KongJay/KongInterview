@@ -30,8 +30,8 @@ import org.springframework.util.DigestUtils;
 /**
  * 用户服务实现
  *
- * @author <a href="https://github.com/liyupi">程序员鱼皮</a>
- * @from <a href="https://yupi.icu">编程导航知识星球</a>
+ * @author <a href="https://github.com/KongJay">红模仿</a>
+ * @from <a href="https://hongmofang.top">KongのBlog</a>
  */
 @Service
 @Slf4j
