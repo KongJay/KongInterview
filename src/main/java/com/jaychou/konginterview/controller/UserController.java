@@ -45,8 +45,8 @@ import static com.jaychou.konginterview.service.impl.UserServiceImpl.SALT;
 /**
  * 用户接口
  *
- * @author <a href="https://github.com/liyupi">程序员鱼皮</a>
- * @from <a href="https://yupi.icu">编程导航知识星球</a>
+ * @author <a href="https://github.com/KongJay">红模仿</a>
+ * @from <a href="https://hongmofang.top">KongのBlog</a>
  */
 @RestController
 @RequestMapping("/user")
